@@ -1,0 +1,16 @@
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.exe
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.deps.json
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.runtimeconfig.json
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.dll
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\ref\dotnet-poo-rpg.dll
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\bin\Debug\net5.0\dotnet-poo-rpg.pdb
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.AssemblyInfo.cs
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.dll
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\ref\dotnet-poo-rpg.dll
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.pdb
+C:\Users\mateu\Desktop\DIO\dotnet-poo-rpg\obj\Debug\net5.0\dotnet-poo-rpg.genruntimeconfig.cache
